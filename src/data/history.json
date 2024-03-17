@@ -1,0 +1,37 @@
+
+  [
+    {
+      "role": "Front-end Intern",
+      "organisation": " 2Cloud Pty Ltd",
+      "startDate": "Dec, 2022",
+      "endDate": "Present",
+      "experiences": ["Developed responsive CMS WordPress websites with Javascript,CSS,HTML.",
+       "Created dynamic card groups/banners with retrieval of post data.",
+       "Customised pages with tailored content using Custom Post UI and ACF, also created search function based on keywords.",
+       "Identified interactive challenges by facilitating transparent Communication."],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "IT Support",
+      "organisation": " Monash University",
+      "startDate": "Oct, 2023",
+      "endDate": "Feb,2024",
+      "experiences": ["Resolve technical issues within an exam platform.", 
+      "Troubleshoot pre-exam technical concerns related to operating systems.",
+      "Facilitated team communication by establishing clear channels of information and feedback loops."
+      ],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Android Intern",
+      "organisation": " Vimana Tech",
+      "startDate": "Jun, 2020",
+      "endDate": "July, 2020",
+      "experiences": [
+        "Spearheaded the design and development of an Android mobile application leveraging the Camera2 API,meticulously configuring access permissions for the camera, microphone, and optimizing camera quality and frame rate settings for enhanced performance.",
+        "Engineered a user-friendly interface for the camera application, incorporating intuitive logic enables users to capture photos, record videos, and seamlessly browse their media gallery.",
+        "Conducted comprehensive bug fixes and rigorous testing protocols."
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

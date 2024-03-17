@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Healthy Pregnancy Website",
+      "imageSrc": "projects/project.png",
+      "description": " Spearheaded the creation of a comprehensive website designed to empower users withtools for monitoring daily calorie and nutritional intake, tracking weight fluctuations, managing due dates, and maintaining pregnancy journals.",
+      "skills": ["React", "JavaScript", "HTML","CSS","Figma"],
+      "demo": "Expired",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Android Exercise Mobile App.",
+      "imageSrc": "projects/project.png",
+      "description": "Develop an android mobile app to let users input and keep track their daily exercise volume,check the weather forecast with weather API and visualize their information with data analysis",
+      "skills": ["Java", "HTML", "Javascript", "XML"],
+      "demo": "Expired",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "C# Web. Development",
+      "imageSrc": "projects/project.png",
+      "description": "Construct  a full stack web. Application using Microsoft .Net framework with C#, leveraging Entity Framework and ASP .Net MVC ",
+      "skills": ["C#", "HTML", "Javascript", "LINQ"],
+      "demo": "Expired",
+      "source": "https://www.github.com"
+    }
+  ]
