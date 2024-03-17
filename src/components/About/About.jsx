@@ -19,7 +19,7 @@ export const About = () => {
                     alt="Cursor icon"/>
                     <div className={styles.aboutItemText}> 
                         <h3>Front-end Developer</h3>
-                        <p>I'm Jian Wee Fong - a front-end developer with experience in building responsive and optimise sites.</p>
+                        <p>I'm a front-end developer with experience in building responsive and optimise sites.</p>
                     </div>
                    
             </li>
